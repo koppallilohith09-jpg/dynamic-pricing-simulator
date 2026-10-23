@@ -1,0 +1,8 @@
+{
+  "name": "dynamic-pricing-simulator",
+  "brand": "Margin",
+  "section": "Pricing experiments",
+  "subtitle": "Test a strategy before changing a price.",
+  "port": 8903,
+  "description": "Reproducible inventory and demand simulations for comparing pricing strategies."
+}
